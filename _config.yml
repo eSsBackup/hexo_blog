@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Esmidth's Note
+title: Esmidth's Manual
 subtitle:
 description:
 keywords:
-author: John Doe
+author: Esmidth
 language:
 timezone:
 
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: amber
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
