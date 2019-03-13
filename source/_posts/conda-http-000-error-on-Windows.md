@@ -4,7 +4,7 @@ date: 2019-03-13 20:52:02
 tags:
 ---
 
-##
+
 When I tried to install Python package to a new created conda environment on my Windows 10 tablet, conda returns error as below.
 
 "CondaHTTPError: HTTP None None for url <https://repo.continuum.io/pkgs/free/win-64/repodata.json.bz2><br>Elapsed: None<br><br>An HTTP error occurred when trying to retrieve this URL.<br>HTTP errors are often intermittent, and a simple retry will get you on your way.<br>ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='repo.continuum.io', port=443): Max retries exceeded with url: /pkgs/free/win-64/repodata.json.bz2 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x0000000005E606A0>, 'Connection to repo.continuum.io timed out. (connect timeout=9.15)'))",),)<br>Navigator Error #2760"
