@@ -21,7 +21,7 @@ As my daily used OS are Windows and Linux, I choose to install node.js on WSL, w
 - ### Hexo
     change directory to where your project is located first, and install hexo
     ```bash
-    npm install hexo
+    npm install hexo-cli
     npm install hexo-deployer-git
     ```
 
